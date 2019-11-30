@@ -8,4 +8,4 @@ Requirements
 5) grub-mkrescue
 6) QEMU
 
-sh run.sh
+sh run.sh or make
